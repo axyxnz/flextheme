@@ -1,0 +1,7 @@
+.DS_Store
+.temp
+.zip
+dist
+node_modules
+temporary
+Thumbs.db
